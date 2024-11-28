@@ -1,2 +1,2 @@
 # min-hobby
-Hobby
+Övninguppgift med infromation om min hobby
